@@ -1,0 +1,14 @@
+.sticky-card
+{
+  position: sticky !important;
+  top: 1px;
+}
+
+
+.login
+{
+  align-items: center !important;
+  justify-content: center;
+  height:100vh;
+}
+
